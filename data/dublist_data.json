@@ -1,0 +1,2502 @@
+[
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC",
+			"episode_name" : "",
+			"episode_number" : 1009,
+			"filename_template" : "",
+			"id" : 3,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Aspera",
+			"series_name" : "Afterburn",
+			"uuid" : "0435870C-DDF5-4040-B31F-61A325196452",
+			"version_name" : "International 1 Hour - Middle East",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "3"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 4,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "C29C94BC-8BFC-7848-A176-FCF6475227CF",
+			"version_name" : "International 2 Hour - Middle East",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "4"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CHARLTON",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 5,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "0141E332-E8CB-B74D-B630-2E7846ED25FF",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "5"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 6,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "ACD4E53F-F1D0-264E-96E3-C133874FEF0D",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "6"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 7,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"EXTREME\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":52,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Monday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"73DC4647-8238-1B4C-910C-782EE4EF8B1D\",\"version_name\":\"International Domestic\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "044BF361-9E77-5848-8898-76C0BF6EAE12",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "7"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 468,
+			"filename_template" : "",
+			"id" : 8,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "WWE Main Event",
+			"uuid" : "7DF2986F-81EC-A34B-A677-7B9B88EA8766",
+			"version_name" : "International 1 Hour - SpanFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "8"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 640,
+			"filename_template" : "",
+			"id" : 9,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "NXT",
+			"uuid" : "A37EE316-1748-584A-8E1B-03FEAABA100C",
+			"version_name" : "International 1 Hour - SpanFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "9"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 10,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "9DCA31FE-E8A3-7944-91BD-FD5F83929E7F",
+			"version_name" : "International 1 Hour - SpanFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "10"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 11,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "FF562EC9-B292-1C49-9549-43C7A63886FE",
+			"version_name" : "International Domestic – Spanish",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "11"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 12,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Aspera",
+			"series_name" : "News Slams",
+			"uuid" : "462CA600-C1EB-F644-B128-A254DE627875",
+			"version_name" : "International",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "12"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SCTV",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 13,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "228F2A76-F19A-8744-89EC-A2CE0CD672B6",
+			"version_name" : "International Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "13"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 468,
+			"filename_template" : "",
+			"id" : 14,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "WWE Main Event",
+			"uuid" : "1A8FA05F-0C5F-1C41-AF09-E0BDB2328F4B",
+			"version_name" : "International 1 Hour - SpanFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "14"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 640,
+			"filename_template" : "",
+			"id" : 15,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "NXT",
+			"uuid" : "31E1A5CC-DD6B-4F47-9064-73A36A9755FE",
+			"version_name" : "International 1 Hour - SpanFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "15"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 16,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "CE82EEEA-CDF6-6E47-8A15-AEF0989920C3",
+			"version_name" : "International 1 Hour - SpanFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "16"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 17,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "2FD5295E-4820-2F40-90FF-2B0CDF1ADBEB",
+			"version_name" : "International Domestic – Spanish",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "17"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 468,
+			"filename_template" : "",
+			"id" : 18,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "WWE Main Event",
+			"uuid" : "3B16AF2B-BE0A-5B47-AAD3-84F03C61381E",
+			"version_name" : "International 1 Hour – BraFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "18"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 19,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "913053B6-BEFB-C840-BF73-7C6A5AA516EB",
+			"version_name" : "International 1 Hour – BraFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "19"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 20,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "4C5E64EC-AACA-B646-998C-7AB25CEA83E0",
+			"version_name" : "International Domestic – Brazil",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "20"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 21,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "7B9C6FF5-0A8F-FE46-AA2F-AC5831D93420",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "21"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 22,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"SCTV\",\"episode_name\":\"\",\"episode_number\":1152,\"filename_template\":\"\",\"id\":82,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"SmackDown\",\"uuid\":\"EB2B9319-6BB9-0F4F-93C2-535B8FA2B0CB\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "A4BDFF3B-822F-0440-A8C8-5B49EB6720E3",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "22"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT 5",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 23,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"WWE\",\"episode_name\":\"\",\"episode_number\":906,\"filename_template\":\"\",\"id\":54,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Thursday\",\"send_via\":\"Satellite\",\"series_name\":\"WWE En Espanol\",\"uuid\":\"D05C09FA-2F37-7E40-82A7-D28FF36AB596\",\"version_name\":\"Dotcom\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "138EC715-8AC5-2242-A9BE-6FB924582EE8",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "23"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 24,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "C8D205C4-DF66-4D4C-A34C-7539767E7FA7",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "24"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 25,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"AB DROITS AUDIOVISUELS\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":83,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"64780322-24FF-6E4C-9C58-3AA7BE48B186\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "643F3DFF-D38E-B842-A7D9-4AAEB9DA0CCF",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "25"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 26,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "95B9867A-7C7D-3545-94B5-0BC7BD256337",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "26"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 27,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"AB DROITS AUDIOVISUELS\",\"episode_name\":\"\",\"episode_number\":1152,\"filename_template\":\"\",\"id\":84,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"SmackDown\",\"uuid\":\"1A7705CC-BC40-1645-8831-BF9D53967532\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "86C235DE-95A3-B24C-8DD3-0B4AC55FAF6E",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "27"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 28,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "62FC7439-D261-0C49-9D98-9CCE50DDC97A",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "28"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 29,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"CHARLTON\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":85,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"732A84EB-26D9-6F4F-B164-59C29ABCE860\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "1643A112-E648-E047-BDBA-3ADE6051AF69",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "29"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 30,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "D02FAED7-0D2D-F744-BBBF-FAB470CB1164",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "30"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 31,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"ALBAVISION\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":86,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"ECF03113-C250-8144-AEF2-6FAE9056859D\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "3FD57AD6-20CF-E342-8BF7-EC2501C3D3F8",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "31"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 32,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "5C73D703-6790-0641-8366-4EFEC8D6315E",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "32"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 33,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"ALBAVISION\",\"episode_name\":\"\",\"episode_number\":1152,\"filename_template\":\"\",\"id\":87,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"SmackDown\",\"uuid\":\"2E1DFF67-F874-A847-96FC-3862D1F3D6F8\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "A6D83EF9-A1DD-3A4E-9DA8-601CC8D0C764",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "33"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 34,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "2E079EEA-88ED-2844-98BF-96D8EBF60A55",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "34"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 35,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"CWC\",\"episode_name\":\"\",\"episode_number\":1152,\"filename_template\":\"\",\"id\":88,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"SmackDown\",\"uuid\":\"4123923F-41F7-4940-AB54-35DB12582B00\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "9C83B892-1385-EE4F-A35C-9EF0AD927CD8",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "35"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 36,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "19DB5450-0DE8-4E43-A5E1-8219BAEAE9CA",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "36"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 37,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"CWC\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":89,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"2A809BC8-2912-EA46-817D-CECE2D89E92C\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "3BD8CA83-B5A5-BC48-9B0D-8952080FA991",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "37"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 38,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "645DF73C-5062-4148-B6D1-27A8FC735434",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "38"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 39,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"J SPORTS\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":90,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"687BC011-82AF-844C-8EB5-3E2420E27B51\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "44638C15-3CCB-F64C-A372-9EBED80D8651",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "39"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 40,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "D7D70A4B-357B-934A-B631-14D35BD7B30B",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "40"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 41,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"FSLA\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":91,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"5B7AB967-D864-2048-AD0A-FCDC10E2D769\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "296B8993-46A0-D346-A28E-BB2D1326E53A",
+			"version_name" : "International 1 Hour - SpanGen",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "41"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 42,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "ED289015-D6DC-C145-B29E-4BF7482668E1",
+			"version_name" : "International Domestic – Spanish",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "42"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 43,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "52372BAA-DC32-8141-9E75-DF001100D908",
+			"version_name" : "International Domestic – Brazil",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "43"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 44,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"FSLA\",\"episode_name\":\"\",\"episode_number\":468,\"filename_template\":\"\",\"id\":14,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"WWE Main Event\",\"uuid\":\"1A8FA05F-0C5F-1C41-AF09-E0BDB2328F4B\",\"version_name\":\"International 1 Hour - SpanFox\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:48\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "",
+			"send_via" : "Aspera",
+			"series_name" : "Vintage",
+			"uuid" : "E9132C8A-3FEA-7E46-8F8E-E7F2C53B98FA",
+			"version_name" : "International - LatAm Generic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "44"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 45,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "6094529A-3BD4-8742-B8A7-37035BD28F56",
+			"version_name" : "International Domestic – Spanish",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "45"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 46,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "4EAE5B25-A13D-384B-87EA-9377B1C9BDFF",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "46"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 47,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"NBC UNIVERSAL\",\"episode_name\":\"\",\"episode_number\":\"\",\"filename_template\":\"\",\"id\":55,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"\",\"send_via\":\"\",\"series_name\":\"Total Divas\",\"uuid\":\"C8736F3F-6475-E74F-BA9A-0D7451A27ACE\",\"version_name\":\"Domestic\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "C2069270-9452-7741-A731-0A0760D2D6F7",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "47"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "Also Began Streaming on NBC Sports App on 5/22/21, Ep. #1461",
+			"endpoint_name" : "NBC UNIVERSAL",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 48,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "9A416668-FA65-1E41-9C5D-C7336343D09C",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "48"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ARMED FORCES TV NETWORK",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 49,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "E88D6A08-3EB4-3F4E-95B0-1F342D4575AD",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "49"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ARMED FORCES TV NETWORK",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 50,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"NBC UNIVERSAL\",\"episode_name\":\"\",\"episode_number\":\"\",\"filename_template\":\"\",\"id\":56,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"\",\"send_via\":\"\",\"series_name\":\"Total Bellas\",\"uuid\":\"11EB3810-8C67-8645-95A1-97118B560855\",\"version_name\":\"Domestic\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "69486342-E92C-8B48-AED5-0E15D99ACCD0",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "50"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "NBC UNIVERSAL",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 51,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "112BF6AB-85A4-5942-BB2C-8107EBC27E02",
+			"version_name" : "Domestic Edited Master",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "51"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "EXTREME",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 52,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "73DC4647-8238-1B4C-910C-782EE4EF8B1D",
+			"version_name" : "International Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "52"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "WWE",
+			"episode_name" : "",
+			"episode_number" : 906,
+			"filename_template" : "",
+			"id" : 54,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Thursday",
+			"send_via" : "Satellite",
+			"series_name" : "WWE En Espanol",
+			"uuid" : "D05C09FA-2F37-7E40-82A7-D28FF36AB596",
+			"version_name" : "Dotcom",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "54"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "NBC UNIVERSAL",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 55,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"ROGERS\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":6,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Monday\",\"send_via\":\"Satellite\",\"series_name\":\"Raw\",\"uuid\":\"ACD4E53F-F1D0-264E-96E3-C133874FEF0D\",\"version_name\":\"Domestic\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "",
+			"send_via" : "",
+			"series_name" : "Total Divas",
+			"uuid" : "C8736F3F-6475-E74F-BA9A-0D7451A27ACE",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "11",
+		"portalData" : {},
+		"recordId" : "55"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "NBC UNIVERSAL",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 56,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"CHARLTON\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":5,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Monday\",\"send_via\":\"Satellite\",\"series_name\":\"Raw\",\"uuid\":\"0141E332-E8CB-B74D-B630-2E7846ED25FF\",\"version_name\":\"Domestic\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "",
+			"send_via" : "",
+			"series_name" : "Total Bellas",
+			"uuid" : "11EB3810-8C67-8645-95A1-97118B560855",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "56"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "LRTV",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 57,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "7327570E-94DA-DD46-9638-A1EE92EFB685",
+			"version_name" : "International 1 Hour - China",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "10",
+		"portalData" : {},
+		"recordId" : "57"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "LRTV",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 58,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "F20E4ED1-8613-F349-851A-F6DB39E0E32B",
+			"version_name" : "International 1 Hour - China",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "58"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELL MEDIA",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 59,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"FSLA\",\"episode_name\":\"\",\"episode_number\":468,\"filename_template\":\"\",\"id\":8,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"WWE Main Event\",\"uuid\":\"7DF2986F-81EC-A34B-A677-7B9B88EA8766\",\"version_name\":\"International 1 Hour - SpanFox\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:48\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "",
+			"send_via" : "Aspera",
+			"series_name" : "Total Divas",
+			"uuid" : "5C801EED-F239-6E4E-9DB6-FF3107DA70B7",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "59"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 61,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "640E8EC8-8645-AF4E-9B83-3A056449CBE7",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "61"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 62,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "1AEF4A70-6AA2-1F41-833B-B0CA7C4EEE12",
+			"version_name" : "International 1 Hour – Stereo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "62"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 63,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"LRTV\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":57,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Monday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"7327570E-94DA-DD46-9638-A1EE92EFB685\",\"version_name\":\"International 1 Hour - China\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "DAD9A400-2804-7D45-BA08-76186E4E4393",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "63"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 64,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "B6886092-62AE-EF46-8671-31AFD4910F95",
+			"version_name" : "International 1 Hour – Stereo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "64"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 65,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "80E9F0B4-2534-9242-BB5A-FBE1F82FFB91",
+			"version_name" : "International 1 Hour – BraFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "65"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 66,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"SPORT 5\",\"episode_name\":\"\",\"episode_number\":1152,\"filename_template\":\"\",\"id\":80,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"SmackDown\",\"uuid\":\"E3FF7446-A1BB-8645-A59B-E773D3DA3854\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "925C5F19-49FA-C446-BEB4-50C1F89E3277",
+			"version_name" : "International 1 Hour - SpanFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "66"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 67,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"SCTV\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":81,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"Raw\",\"uuid\":\"95E074B4-CAF5-AB46-8294-150204746CFD\",\"version_name\":\"Promo\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "FD74F9C6-52B9-6F49-9C84-8BB9F4B0D75E",
+			"version_name" : "International 1 Hour - SpanFox",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "67"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 68,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"FSLA\",\"episode_name\":\"\",\"episode_number\":640,\"filename_template\":\"\",\"id\":9,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Wednesday\",\"send_via\":\"Aspera\",\"series_name\":\"NXT\",\"uuid\":\"A37EE316-1748-584A-8E1B-03FEAABA100C\",\"version_name\":\"International 1 Hour - SpanFox\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "",
+			"send_via" : "Aspera",
+			"series_name" : "Total Divas",
+			"uuid" : "F5F0506F-E685-984A-B4B1-0CD9AF2309FE",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "68"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DMC (PTV)",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 69,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"ROGERS\",\"episode_name\":\"\",\"episode_number\":1152,\"filename_template\":\"\",\"id\":7,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Friday\",\"send_via\":\"Satellite\",\"series_name\":\"SmackDown\",\"uuid\":\"044BF361-9E77-5848-8898-76C0BF6EAE12\",\"version_name\":\"Domestic\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "",
+			"send_via" : "",
+			"series_name" : "Total Divas",
+			"uuid" : "3272927C-6423-854C-B5DE-5D8B20F7CB2D",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "69"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 70,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "0132C166-AF2E-DA45-A8CE-A02F5EC44B4C",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "70"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 71,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "032C95DD-EF18-4840-9C0F-94117E94B668",
+			"version_name" : "International 2 Hour - UK - BT Sport",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "71"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 72,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Tuesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "C9697B68-5A2D-434C-883A-D0E5AD444658",
+			"version_name" : "International 1 Hour - UK - BT Sport",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "72"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 73,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"LRTV\",\"episode_name\":\"\",\"episode_number\":1152,\"filename_template\":\"\",\"id\":58,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Monday\",\"send_via\":\"Aspera\",\"series_name\":\"SmackDown\",\"uuid\":\"F20E4ED1-8613-F349-851A-F6DB39E0E32B\",\"version_name\":\"International 1 Hour - China\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "8D7C8586-50CD-3548-AA2E-EC7A0E699B60",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "73"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 74,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "EB0152BD-C7CE-8F4E-83A7-5CFB793151F0",
+			"version_name" : "International 1 Hour - UK - BT Sport",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "74"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 75,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "E42281B8-A643-BF48-8D69-B7C2D6C2ADBF",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "75"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 76,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "1E68D5B5-8207-0C4B-96FC-95D11010884D",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "76"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 77,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "58392DB3-FE7F-364A-89F9-3EB31011F839",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "77"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 78,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "E0859F32-13ED-5944-AFE8-942D67C580F4",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "78"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 79,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "39868747-A294-8D4E-8BC6-3A3135EFB317",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "79"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT 5",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 80,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "E3FF7446-A1BB-8645-A59B-E773D3DA3854",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "80"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SCTV",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 81,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "95E074B4-CAF5-AB46-8294-150204746CFD",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "81"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SCTV",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 82,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "EB2B9319-6BB9-0F4F-93C2-535B8FA2B0CB",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "82"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "AB DROITS AUDIOVISUELS",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 83,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "64780322-24FF-6E4C-9C58-3AA7BE48B186",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "83"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "AB DROITS AUDIOVISUELS",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 84,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "1A7705CC-BC40-1645-8831-BF9D53967532",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "84"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CHARLTON",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 85,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "732A84EB-26D9-6F4F-B164-59C29ABCE860",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "85"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 86,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "ECF03113-C250-8144-AEF2-6FAE9056859D",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "86"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 87,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "2E1DFF67-F874-A847-96FC-3862D1F3D6F8",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "87"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 88,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "4123923F-41F7-4940-AB54-35DB12582B00",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "88"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 89,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "2A809BC8-2912-EA46-817D-CECE2D89E92C",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "89"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 90,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "687BC011-82AF-844C-8EB5-3E2420E27B51",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "90"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 91,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "5B7AB967-D864-2048-AD0A-FCDC10E2D769",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "91"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 92,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "6BAA872A-6749-4642-ADDD-41572D71E5DD",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "92"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 93,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "20AF2AC7-722A-884F-9947-7247FB9DFF94",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "93"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "EXTREME",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 94,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "723CC51D-C109-AB48-958E-227493B72A7C",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "94"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "EXTREME",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 95,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "09A50D8A-1E81-BF44-AB31-ACB013A04E7D",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "95"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TELESUR",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 96,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "FC2CD8BC-1309-EB44-8F41-0D4E88C987B6",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "96"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TELESUR",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 97,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "A5A6C125-8E07-CF40-A5EE-E2D6109DF61C",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "97"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DMC (PTV)",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 98,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "EE975C85-9467-3545-93EB-8F0CCBB8C7A1",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "98"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DMC (PTV)",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 99,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "3076B854-67B8-9E49-87B2-8A47D809B641",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "99"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOX",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 100,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"BELL MEDIA\",\"episode_name\":\"\",\"episode_number\":\"\",\"filename_template\":\"\",\"id\":59,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"\",\"send_via\":\"Aspera\",\"series_name\":\"Total Divas\",\"uuid\":\"5C801EED-F239-6E4E-9DB6-FF3107DA70B7\",\"version_name\":\"Domestic\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "747C51E5-AADA-7E4D-929B-3620ADF4D5A1",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "100"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 101,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "SmackDown",
+			"uuid" : "D59D660A-DEA0-5543-9C2B-6ADCA182D245",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "101"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 102,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Wednesday",
+			"send_via" : "Aspera",
+			"series_name" : "Raw",
+			"uuid" : "20A9E750-13EA-8648-8E92-ADF19E8E84C8",
+			"version_name" : "Promo",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "102"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MATCH TV",
+			"episode_name" : "",
+			"episode_number" : 1477,
+			"filename_template" : "",
+			"id" : 103,
+			"r_data" : "",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Monday",
+			"send_via" : "Satellite",
+			"series_name" : "Raw",
+			"uuid" : "A094274A-EC1B-8F40-9BE9-5A9B418E3504",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "103"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MATCH TV",
+			"episode_name" : "",
+			"episode_number" : 1152,
+			"filename_template" : "",
+			"id" : 104,
+			"r_data" : "{\"customization_note\":\"\",\"endpoint_name\":\"J SPORTS\",\"episode_name\":\"\",\"episode_number\":1477,\"filename_template\":\"\",\"id\":61,\"send_at_time\":\"19:00:00\",\"send_on_day\":\"Monday\",\"send_via\":\"Satellite\",\"series_name\":\"Raw\",\"uuid\":\"640E8EC8-8645-AF4E-9B83-3A056449CBE7\",\"version_name\":\"Domestic\",\"zz_CreatedBy\":\"TLochner\",\"zz_CreationTimestamp\":\"09/13/2021 10:42:37\",\"zz_ModificationTimestamp\":\"09/13/2021 12:07:47\",\"zz_ModifiedBy\":\"TLochner\"}",
+			"send_at_time" : "19:00:00",
+			"send_on_day" : "Friday",
+			"send_via" : "Satellite",
+			"series_name" : "SmackDown",
+			"uuid" : "17FAC44B-8A7C-E54E-928C-16225CF8229A",
+			"version_name" : "Domestic",
+			"zz_CreatedBy" : "TLochner",
+			"zz_CreationTimestamp" : "09/13/2021 10:42:37",
+			"zz_ModificationTimestamp" : "09/13/2021 12:11:31",
+			"zz_ModifiedBy" : "TLochner"
+		},
+		"modId" : "9",
+		"portalData" : {},
+		"recordId" : "104"
+	}
+]

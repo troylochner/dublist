@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link href="./styles/tabulator/bootstrap/tabulator_bootstrap4.min.css" rel="stylesheet">
+        <link href="./styles/style.css" rel="stylesheet">
+       
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Urbanist">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.5/jspdf.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.0.5/jspdf.plugin.autotable.js"></script>
+        <script type="text/javascript" src="https://oss.sheetjs.com/sheetjs/xlsx.full.min.js"></script>
+
+
+        <style>
+                h1 {
+              font-family: "Urbanist", sans-serif;
+            }
+
+            #table-bordered {
+              font-family: "Urbanist", sans-serif;
+              text-transform: uppercase
+            };
+        
+            </style>
+
+    </head>
+    <body>
+        <div>
+            <h1>WWE Dublist Demo</h1>
+        </div>
+        <hr>
+        <div>
+            <button id="file-load-trigger">Open File</button>
+        </div>
+        <hr>
+
+        <div>
+            <button id="download-csv">Download CSV</button>
+            <button id="download-json">Download JSON</button>
+            <button id="download-xlsx">Download XLSX</button>
+            <button id="download-pdf">Download PDF</button>
+        </div>
+
+        <hr>
+        <div id="table-bordered"></div>
+
+        <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.9.3/dist/js/tabulator.min.js"></script>
+        <script type="text/javascript" src="./javascripts/tabulator/tabulator.min.js"></script>
+        <script type="text/javascript" src="./javascripts/dublist.js""> </script>
+
+    </body>
+</html>
