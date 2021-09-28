@@ -1,0 +1,6176 @@
+[
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 250,
+			"filename_template" : "",
+			"id" : 6143,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "205 LIVE",
+			"version_name" : "HULU",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6160"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 250,
+			"filename_template" : "",
+			"id" : 6144,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "205 LIVE",
+			"version_name" : "OTT CLIP",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6161"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6145,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "AFTERBURN",
+			"version_name" : "INTERNATIONAL 1 HOUR - ITALY - DISCOVERY",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6162"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC - MIDDLE EAST",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6146,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "AFTERBURN",
+			"version_name" : "INTERNATIONAL 1 HOUR - MIDDLE EAST",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6163"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DAZN - GERMANY",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6147,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "AFTERBURN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6164"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ASTRO",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6148,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "AFTERBURN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6165"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IB MEDIA",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6149,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "AFTERBURN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6166"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SCTV",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6150,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "AFTERBURN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6167"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "STARHUB",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6151,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "AFTERBURN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6168"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOXTEL",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6152,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "AFTERBURN",
+			"version_name" : "INTERNATIONAL 1 HOUR – AUSTRALIA – FOXTEL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6169"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6153,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR - ITALY - DISCOVERY",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6170"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC -  AFRICA",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6154,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR - MIDDLE EAST",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6171"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DAZN - GERMANY",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6155,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6172"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ASTRO",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6156,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6173"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CIGNAL TV",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6157,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6174"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IB MEDIA",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6158,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6175"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SCTV",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6159,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6176"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "STARHUB",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6160,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6177"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOXTEL",
+			"episode_name" : "",
+			"episode_number" : 1010,
+			"filename_template" : "",
+			"id" : 6161,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "BOTTOM LINE",
+			"version_name" : "INTERNATIONAL 1 HOUR – AUSTRALIA – FOXTEL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6178"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6162,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6179"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6163,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6180"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6164,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6181"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOXTEL",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6165,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6182"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IB MEDIA",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6166,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6183"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MNET SUPERSPORT",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6167,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6184"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6168,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6185"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "S-SPORT - TURKEY",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6169,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6186"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6170,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6187"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT 5",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6171,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6188"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT TV - PORTUGAL",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6172,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6189"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TAPDMV",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6173,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6190"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TV3 SPORT",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6174,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6191"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "USA NETWORK",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6175,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6192"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "USA NETWORK",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6176,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "DOMESTIC EDITED MASTER",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6193"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6177,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "HULU",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6194"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6178,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - ITALY - DISCOVERY",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6195"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - NORTH CONE",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6179,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6196"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - SOUTH CONE",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6180,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6197"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DIGI TV",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6181,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6198"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "EXTREME",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6182,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6199"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT TV - PORTUGAL",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6183,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6200"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TV3 SPORT",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6184,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6201"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ASTRO",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6185,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6202"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MNET SUPERSPORT",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6186,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6203"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6187,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6204"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKY TV - NEW ZEALAND",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6188,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6205"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6189,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK - BT SPORT",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6206"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOXTEL",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6190,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR – AUSTRALIA – FOXTEL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6207"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - BRAZIL",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6191,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR – BRAFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6208"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6192,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL 1 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6209"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6193,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6210"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TENCENT",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6194,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6211"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "USA NETWORK",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6195,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "NXT",
+			"version_name" : "INTERNATIONAL DOMESTIC – SPANISH",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6212"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 641,
+			"filename_template" : "",
+			"id" : 6196,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT",
+			"version_name" : "OTT CLIP",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6213"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 167,
+			"filename_template" : "",
+			"id" : 6197,
+			"send_at_time" : "",
+			"send_on_date" : "09/23/2021",
+			"send_on_day" : "THURSDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT UK",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK - BT SPORT",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6214"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CHANNEL 5",
+			"episode_name" : "",
+			"episode_number" : 167,
+			"filename_template" : "",
+			"id" : 6198,
+			"send_at_time" : "",
+			"send_on_date" : "09/23/2021",
+			"send_on_day" : "THURSDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT UK",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK - CHANNEL 5",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6215"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MNET SUPERSPORT",
+			"episode_name" : "",
+			"episode_number" : 167,
+			"filename_template" : "",
+			"id" : 6199,
+			"send_at_time" : "",
+			"send_on_date" : "09/23/2021",
+			"send_on_day" : "THURSDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT UK",
+			"version_name" : "INTERNATIONAL 1 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6216"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TAPDMV",
+			"episode_name" : "",
+			"episode_number" : 167,
+			"filename_template" : "",
+			"id" : 6200,
+			"send_at_time" : "",
+			"send_on_date" : "09/23/2021",
+			"send_on_day" : "THURSDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NXT UK",
+			"version_name" : "INTERNATIONAL 1 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6217"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6201,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "NEWS SLAMS",
+			"version_name" : "INTERNATIONAL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6218"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "AFTN",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6202,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6219"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ASTRO",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6203,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6220"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6204,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6221"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6205,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6222"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DAZN - GERMANY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6206,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6223"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6207,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6224"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOXTEL",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6208,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6225"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IB MEDIA",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6209,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6226"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6210,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6227"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MATCH TV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6211,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6228"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MNET SUPERSPORT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6212,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6229"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MOLA TV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6213,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6230"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MONO",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6214,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6231"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6215,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6232"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "S-SPORT - TURKEY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6216,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6233"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKY PACIFIC",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6217,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6234"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKY TV - NEW ZEALAND",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6218,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6235"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6219,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6236"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT 1",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6220,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6237"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "STARHUB",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6221,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6238"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TAPDMV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6222,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6239"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TV3 SPORT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6223,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6240"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "USA NETWORK",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6224,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6241"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "USA NETWORK",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6225,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "DOMESTIC EDITED MASTER",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6242"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6226,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "HULU",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6243"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6227,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL - WWE SUNDAY DHAMAAL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6244"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6228,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL - WWE SUNDAY DHAMAAL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6245"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "GDTV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6229,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6246"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "LRTV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6230,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6247"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SDTV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6231,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6248"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TJTV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6232,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6249"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "WWE - CHINA OFFICE",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6233,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6250"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6234,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - ITALY - DISCOVERY",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6251"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC -  AFRICA",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6235,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - MIDDLE EAST",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6252"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - NORTH CONE",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6236,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6253"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - SOUTH CONE",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6237,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6254"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6238,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6255"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - ANTENA LATINA",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6239,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6256"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - BOLIVISION",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6240,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6257"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 10",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6241,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6258"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 4",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6242,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6259"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 5",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6243,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6260"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 7",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6244,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6261"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 9",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6245,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6262"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - LA RED",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6246,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6263"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - TELEDOCE",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6247,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6264"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - VTV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6248,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6265"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "RPC - MEDCOM",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6249,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6266"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TELEAMAZONAS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6250,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6267"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BTV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6251,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6268"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DAZN - GERMANY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6252,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6269"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DMC",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6253,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6270"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MTV OY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6254,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6271"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "NOVA",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6255,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6272"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SBS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6256,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6273"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT TV - PORTUGAL",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6257,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6274"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TALPA TV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6258,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6275"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CANAL PLUS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6259,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6276"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CIGNAL TV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6260,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6277"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HANG MEAS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6261,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6278"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MNET SUPERSPORT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6262,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6279"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MOLA TV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6263,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6280"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MONO",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6264,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6281"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "PCCW",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6265,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6282"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKY TV - NEW ZEALAND",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6266,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6283"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TELESUR",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6267,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6284"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TVA SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6268,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6285"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6269,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK - BT SPORT",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6286"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CHANNEL 5",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6270,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK / IRELAND",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6287"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "VIRGIN MEDIA",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6271,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK / IRELAND",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6288"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOXTEL",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6272,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR – AUSTRALIA – FOXTEL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6289"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - BRAZIL",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6273,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR – BRAFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6290"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6274,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 1 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6291"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "PROSIEBEN",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6275,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - GERMANY",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6292"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6276,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - ITALY - DISCOVERY",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6293"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC - MIDDLE EAST",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6277,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - MIDDLE EAST",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6294"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DAZN - GERMANY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6278,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6295"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MEDIAWAN",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6279,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6296"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TV3 SPORT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6280,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6297"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MNET SUPERSPORT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6281,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6298"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKYNET",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6282,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6299"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6283,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6300"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6284,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR - UK - BT SPORT",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6301"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6285,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL 2 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6302"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ASTRO",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6286,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6303"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DIGI TV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6287,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6304"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6288,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6305"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "EXTREME",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6289,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6306"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HUYA",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6290,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6307"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IB MEDIA",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6291,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6308"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MATCH TV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6292,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6309"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SCTV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6293,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6310"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT TV - PORTUGAL",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6294,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6311"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TALPA TV",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6295,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6312"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - BRAZIL",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6296,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC – BRAZIL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6313"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HUYA",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6297,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6314"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IQIYI SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6298,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6315"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TENCENT",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6299,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6316"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "YOUKU",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6300,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6317"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - NORTH CONE",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6301,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC – SPANISH",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6318"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - SOUTH CONE",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6302,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC – SPANISH",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6319"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "USA NETWORK",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6303,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL DOMESTIC – SPANISH",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6320"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "PROSIEBEN",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6304,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "INTERNATIONAL – GERMANY EXCLUSIVES",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6321"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 1478,
+			"filename_template" : "",
+			"id" : 6305,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "RAW",
+			"version_name" : "OTT CLIP",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6322"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "AFTN",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6306,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6323"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6307,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6324"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CIGNAL TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6308,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6325"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6309,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6326"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DAZN - GERMANY",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6310,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6327"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6311,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6328"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOX - U.S.",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6312,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6329"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOXTEL",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6313,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6330"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IB MEDIA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6314,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6331"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6315,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6332"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MATCH TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6316,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6333"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MNET SUPERSPORT",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6317,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6334"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MOLA TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6318,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6335"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MONO",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6319,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6336"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "PROSIEBEN",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6320,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6337"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6321,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6338"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "S-SPORT - TURKEY",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6322,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6339"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKY PACIFIC",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6323,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6340"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKY TV - NEW ZEALAND",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6324,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6341"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6325,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6342"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT 5",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6326,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6343"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT TV - PORTUGAL",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6327,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6344"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "STARHUB",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6328,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6345"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TV3 SPORT",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6329,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "DOMESTIC",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6346"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "GDTV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6330,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6347"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "LRTV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6331,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6348"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TJTV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6332,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6349"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "WWE - CHINA OFFICE",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6333,
+			"send_at_time" : "",
+			"send_on_date" : "09/20/2021",
+			"send_on_day" : "MONDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - CHINA",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6350"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6334,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - ITALY - DISCOVERY",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6351"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC -  AFRICA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6335,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - MIDDLE EAST",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6352"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - NORTH CONE",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6336,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6353"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - SOUTH CONE",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6337,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6354"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - ALBAVISION",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6338,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6355"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - ANTENA LATINA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6339,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6356"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - BOLIVISION",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6340,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6357"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 10",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6341,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6358"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 4",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6342,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6359"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 5",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6343,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6360"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 7",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6344,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6361"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - CHANNEL 9",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6345,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6362"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - LA RED",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6346,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6363"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - TELEDOCE",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6347,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6364"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BELLEVILLE - VTV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6348,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6365"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "RPC - MEDCOM",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6349,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6366"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TELEAMAZONAS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6350,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANGEN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6367"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BTV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6351,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6368"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DAZN - GERMANY",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6352,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6369"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DMC",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6353,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6370"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MTV OY",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6354,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6371"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "NOVA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6355,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6372"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SBS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6356,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6373"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPORT TV - PORTUGAL",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6357,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6374"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TALPA TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6358,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6375"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CANAL PLUS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6359,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6376"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CIGNAL TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6360,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6377"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HANG MEAS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6361,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6378"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MNET SUPERSPORT",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6362,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6379"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MOLA TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6363,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6380"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MONO",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6364,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6381"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "PCCW",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6365,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6382"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKY TV - NEW ZEALAND",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6366,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6383"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKYNET",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6367,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6384"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TELESUR",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6368,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6385"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "VIDEOLAND",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6369,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6386"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "BT SPORT",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6370,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK - BT SPORT",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6387"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CHANNEL 5",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6371,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK / IRELAND",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6388"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "VIRGIN MEDIA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6372,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR - UK / IRELAND",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6389"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOXTEL",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6373,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR – AUSTRALIA – FOXTEL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6390"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - BRAZIL",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6374,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR – BRAFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6391"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6375,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6392"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6376,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 1 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6393"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DISCOVERY - ITALY",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6377,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - ITALY - DISCOVERY",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6394"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DIGI TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6378,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6395"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "EXTREME",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6379,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6396"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MATCH TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6380,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6397"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MEDIAWAN",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6381,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6398"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TALPA TV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6382,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6399"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TV3 SPORT",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6383,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6400"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ASTRO",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6384,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6401"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IB MEDIA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6385,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6402"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "PROSIEBEN",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6386,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6403"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SCTV",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6387,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6404"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SPS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6388,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6405"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HUYA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6389,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6406"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6390,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL 2 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6407"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - BRAZIL",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6391,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – BRAZIL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6408"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HUYA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6392,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6409"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IQIYI SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6393,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6410"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "IQIYI SPORTS",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6394,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6411"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TENCENT",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6395,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6412"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "YOUKU",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6396,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – MANDARIN",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6413"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FOX DEPORTES",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6397,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – SPANISH",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6414"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - NORTH CONE",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6398,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – SPANISH",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6415"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - SOUTH CONE",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6399,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – SPANISH",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6416"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "WAPA",
+			"episode_name" : "",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6400,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "SMACKDOWN",
+			"version_name" : "INTERNATIONAL DOMESTIC – SPANISH",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6417"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SECA",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6401,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL - STEREO LITE",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6418"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKY PERFECT TV",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6402,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL - STEREO LITE",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6419"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SUN",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6403,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL - STEREO LITE",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6420"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TKU",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6404,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL - STEREO LITE",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6421"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TOKYO MX",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6405,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL - STEREO LITE",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6422"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TVK",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6406,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL - STEREO LITE",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6423"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "DMC",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6407,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6424"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "NOVA",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6408,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6425"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ASTRO",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6409,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6426"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "CWC",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6410,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6427"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6411,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6428"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "STARHUB",
+			"episode_name" : "",
+			"episode_number" : 661,
+			"filename_template" : "",
+			"id" : 6412,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "THIS WEEK IN WWE",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6429"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "WWE - DIGITAL",
+			"episode_name" : "",
+			"episode_number" : 907,
+			"filename_template" : "",
+			"id" : 6413,
+			"send_at_time" : "",
+			"send_on_date" : "09/23/2021",
+			"send_on_day" : "THURSDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "WWE EN ESPANOL",
+			"version_name" : "DOTCOM",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6430"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 907,
+			"filename_template" : "",
+			"id" : 6414,
+			"send_at_time" : "",
+			"send_on_date" : "09/23/2021",
+			"send_on_day" : "THURSDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE EN ESPANOL",
+			"version_name" : "HULU",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6431"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "WWE - SPANISH WWE.COM",
+			"episode_name" : "",
+			"episode_number" : 907,
+			"filename_template" : "",
+			"id" : 6415,
+			"send_at_time" : "",
+			"send_on_date" : "09/23/2021",
+			"send_on_day" : "THURSDAY",
+			"send_via" : "SATELLITE",
+			"series_name" : "WWE EN ESPANOL",
+			"version_name" : "INTERNATIONAL",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6432"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 907,
+			"filename_template" : "",
+			"id" : 6416,
+			"send_at_time" : "",
+			"send_on_date" : "09/23/2021",
+			"send_on_day" : "THURSDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE EN ESPANOL",
+			"version_name" : "OTT CLIP",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6433"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6417,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "HULU",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6434"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "MBC - MIDDLE EAST",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6418,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR - MIDDLE EAST",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6435"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - NORTH CONE",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6419,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6436"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - SOUTH CONE",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6420,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR - SPANFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6437"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "EXTREME",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6421,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (EURO SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6438"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ASTRO",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6422,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6439"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "ROGERS",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6423,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6440"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SKYNET",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6424,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR - STEREO (SHOP PROMO)",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6441"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "FSLA - BRAZIL",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6425,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR – BRAFOX",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6442"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6426,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "INTERNATIONAL 1 HOUR – STEREO",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6443"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "HULU",
+			"episode_name" : "",
+			"episode_number" : 469,
+			"filename_template" : "",
+			"id" : 6427,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE MAIN EVENT",
+			"version_name" : "OTT CLIP",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6444"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "SONY TEN",
+			"episode_name" : "WWE Talking Smack: 1153",
+			"episode_number" : 1153,
+			"filename_template" : "",
+			"id" : 6428,
+			"send_at_time" : "",
+			"send_on_date" : "09/24/2021",
+			"send_on_day" : "FRIDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TALKING SMACK",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6445"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6429,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TOP 10",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6446"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "J SPORTS",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6430,
+			"send_at_time" : "",
+			"send_on_date" : "09/25/2021",
+			"send_on_day" : "SATURDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TOP 10",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6447"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TENCENT",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6431,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TOP 10",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6448"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TENCENT",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6432,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TOP 10",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6449"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "TENCENT",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6433,
+			"send_at_time" : "",
+			"send_on_date" : "09/25/2021",
+			"send_on_day" : "SATURDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TOP 10",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6450"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "YOUKU",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6434,
+			"send_at_time" : "",
+			"send_on_date" : "09/21/2021",
+			"send_on_day" : "TUESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TOP 10",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6451"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "YOUKU",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6435,
+			"send_at_time" : "",
+			"send_on_date" : "09/22/2021",
+			"send_on_day" : "WEDNESDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TOP 10",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6452"
+	},
+	{
+		"fieldData" : 
+		{
+			"customization_note" : "",
+			"endpoint_name" : "YOUKU",
+			"episode_name" : "",
+			"episode_number" : "",
+			"filename_template" : "",
+			"id" : 6436,
+			"send_at_time" : "",
+			"send_on_date" : "09/25/2021",
+			"send_on_day" : "SATURDAY",
+			"send_via" : "ASPERA",
+			"series_name" : "WWE TOP 10",
+			"version_name" : "NETWORK",
+			"week_begin" : "09/20/2021"
+		},
+		"modId" : "0",
+		"portalData" : {},
+		"recordId" : "6453"
+	}
+]

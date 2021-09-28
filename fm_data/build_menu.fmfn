@@ -1,0 +1,20 @@
+Let ([ 
+~c1_name="series_name" ;
+~c2_name="version_name" ; 
+~c3_name="id" ; 
+~c4_name="productionID" ; 
+~data = dublist_item_template::q_result;
+~json = JSONSetElement ( ""; 
+["params.c1_name" ; ~c1_name ; JSONString];
+["params.c2_name" ; ~c2_name ; JSONString];
+["params.c3_name" ; ~c3_name ; JSONString];
+["params.c4_name" ; ~c4_name ; JSONString];
+["data" ; ~data ; JSONArray]
+
+ )
+
+
+]; 
+
+JSONFormatElements ( ~json)
+ )

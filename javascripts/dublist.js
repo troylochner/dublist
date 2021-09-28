@@ -1,7 +1,16 @@
 
-
 //Build Tabulator
 var table = new Tabulator("#table-bordered", {
+    ajaxURL:"https://n6dfpq.apps.connect.claris.com/api/webhook/v1/dublist/catch",
+    ajaxConfig : {
+        mode:"cors", //set request mode to cors
+        credentials: "same-origin", //send cookies with the request from the matching origin
+        headers: {
+            "Accept": "application/json", //tell the server we need JSON back
+            "X-Requested-With": "XMLHttpRequest", //fix to help some frameworks respond correctly to request
+            "Content-type": 'application/json; charset=utf-8', //set the character encoding of the request
+            "Access-Control-Allow-Origin": "https://troylochner.github.io/", //the URL origin of the site making the request
+        }},
     layout: "fitColumns",
     columnHeaderSortMulti: true,
     headerSortTristate: true, //enable tristate header sort for all columns
@@ -24,9 +33,9 @@ var table = new Tabulator("#table-bordered", {
 
     // APPLY CUSTOM FORMATTING PER EACH SERIES IN THE ROW
     rowFormatter: function (row) {
-        if (row.getData().fieldData.series_name == "Raw") {
+        if (row.getData().fieldData.series_name == "RAW") {
             row.getElement().classList.add("raw"); //mark rows with age greater than or equal to 18 as successful;
-        } else if (row.getData().fieldData.series_name == "SmackDown") {
+        } else if (row.getData().fieldData.series_name == "SMACKDOWN") {
             row.getElement().classList.add("sd"); //mark rows with age greater than or equal to 18 as successful;
         } else if (row.getData().fieldData.series_name == "NXT") {
             row.getElement().classList.add("nxt"); //mark rows with age greater than or equal to 18 as successful;
@@ -35,8 +44,8 @@ var table = new Tabulator("#table-bordered", {
     },
 
     //GROUP BY OPTIONS AND START OPEN OPTIONS
-    //groupBy:["fieldData.send_on_day"],
-    //groupStartOpen:[false],
+    groupBy:["fieldData.series_name","fieldData.version_name"],
+    groupStartOpen:[false,true],
     /*
      groupStartOpen:[false, true, true,true], //start with gender groups open and color sub groups closed
     groupHeader:[
@@ -56,6 +65,19 @@ var table = new Tabulator("#table-bordered", {
 
 
     columns: [ //Define Table Columns
+        {
+            title: "Date",
+            field: "fieldData.send_on_date",
+            sorter: "date",
+            headerFilter: true,
+            hozAlign: "left",
+            headerSort: true,
+            sorterParams:{
+                format:"YYYY-MM-DD",
+                alignEmptyValues:"top",
+            }
+            
+        },
         {
             title: "Day",
             field: "fieldData.send_on_day",
