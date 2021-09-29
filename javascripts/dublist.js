@@ -9,7 +9,9 @@ var table = new Tabulator("#table-bordered", {
             "X-Requested-With": "XMLHttpRequest", //fix to help some frameworks respond correctly to request
             "Content-type": 'application/json; charset=utf-8', //set specific content type
             //"Access-Control-Allow-Origin": "https://n6dfpq.apps.connect.claris.com/"//the URL origin of the site making the request
-            "Access-Control-Allow-Origin": "httphttps://troylochner.github.io" //the URL origin of the site making the request
+            "Access-Control-Allow-Origin": "https://troylochner.github.io", //the URL origin of the site making the request,
+            //"Access-Control-Allow-Origin": "null", //the URL origin of the site making the request,
+            //"Access-Control-Allow-Headers": ""
         }},
     layout: "fitColumns",
     columnHeaderSortMulti: true,
