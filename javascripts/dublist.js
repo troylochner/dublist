@@ -25,7 +25,7 @@ var table = new Tabulator("#table-bordered", {
     placeholder: "Awaiting Data, Please Load File",
 
     initialSort: [{
-            column: "fieldData.series_name",
+            column: "fieldData.send_on_date",
             dir: "asc"
         }
     ],
@@ -43,8 +43,8 @@ var table = new Tabulator("#table-bordered", {
     },
 
     //GROUP BY OPTIONS AND START OPEN OPTIONS
-    groupBy:["fieldData.series_name","fieldData.version_name"],
-    groupStartOpen:[false,true],
+    //groupBy:["fieldData.series_name","fieldData.version_name"],
+    //groupStartOpen:[true,true],
     /*
      groupStartOpen:[false, true, true,true], //start with gender groups open and color sub groups closed
     groupHeader:[
