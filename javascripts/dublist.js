@@ -5,7 +5,10 @@ var table = new Tabulator("#table-bordered", {
     ajaxConfig:{
         method:"GET", //set request type to Position
         headers: {
+            "Accept": "application/json", //tell the server we need JSON back
+            "X-Requested-With": "XMLHttpRequest", //fix to help some frameworks respond correctly to request
             "Content-type": 'application/json; charset=utf-8', //set specific content type
+            "Access-Control-Allow-Origin": "https://github.com/", //the URL origin of the site making the request
         }},
     layout: "fitColumns",
     columnHeaderSortMulti: true,
@@ -150,6 +153,11 @@ var table = new Tabulator("#table-bordered", {
 
     ]
 
+});
+
+// AJAX (WEB TRIGGER ACTION)
+document.getElementById("ajax-trigger").addEventListener("click", function(){
+    table.setData();
 });
 
 //trigger AJAX load on "Load Data via AJAX" button click
