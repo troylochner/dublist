@@ -8,7 +8,8 @@ var table = new Tabulator("#table-bordered", {
             "Accept": "application/json", //tell the server we need JSON back
             "X-Requested-With": "XMLHttpRequest", //fix to help some frameworks respond correctly to request
             "Content-type": 'application/json; charset=utf-8', //set specific content type
-            "Access-Control-Allow-Origin": "https://github.com/", //the URL origin of the site making the request
+            //"Access-Control-Allow-Origin": "https://n6dfpq.apps.connect.claris.com/"//the URL origin of the site making the request
+            "Access-Control-Allow-Origin": "httphttps://troylochner.github.io" //the URL origin of the site making the request
         }},
     layout: "fitColumns",
     columnHeaderSortMulti: true,
