@@ -3,16 +3,14 @@
 var table = new Tabulator("#table-bordered", {
     ajaxURL:"https://n6dfpq.apps.connect.claris.com/api/webhook/v1/dublist/catch",
     ajaxConfig:{
-        method:"GET", //set request type to Position
-        headers: {
-            "Accept": "application/json", //tell the server we need JSON back
-            "X-Requested-With": "XMLHttpRequest", //fix to help some frameworks respond correctly to request
+        method:"GET",
+        mode:"cors",
+        credentials: "same-origin", //send cookies with the request from the matching origin
+        headers:{
             "Content-type": 'application/json; charset=utf-8', //set specific content type
-            //"Access-Control-Allow-Origin": "https://n6dfpq.apps.connect.claris.com/"//the URL origin of the site making the request
-            "Access-Control-Allow-Origin": "https://troylochner.github.io", //the URL origin of the site making the request,
-            //"Access-Control-Allow-Origin": "null", //the URL origin of the site making the request,
-            //"Access-Control-Allow-Headers": ""
-        }},
+            "Access-Control-Allow-Origin": "*", //the URL origin of the site making the request
+        },
+    },
     layout: "fitColumns",
     columnHeaderSortMulti: true,
     headerSortTristate: true, //enable tristate header sort for all columns
@@ -75,7 +73,7 @@ var table = new Tabulator("#table-bordered", {
             hozAlign: "left",
             headerSort: true,
             sorterParams:{
-                format:"YYYY-MM-DD",
+                format:"MM/DD/YYY",
                 alignEmptyValues:"top",
             }
             
@@ -83,10 +81,11 @@ var table = new Tabulator("#table-bordered", {
         {
             title: "Day",
             field: "fieldData.send_on_day",
-            sorter: "string",
+            sorter: "datetime",
             headerFilter: true,
             hozAlign: "left",
-            headerSort: false
+            headerSort: false,
+           
         },
         {
             title: "Partner",
@@ -119,9 +118,10 @@ var table = new Tabulator("#table-bordered", {
         {
             title: "Time",
             field: "fieldData.send_at_time",
-            sorter: "string",
+            sorter: "datetime",
             hozAlign: "left",
             headerFilter: true,
+            
             formatter: function (cell, formatterParams, onRendered) {
                 const timeString = cell.getValue();
                 const timeString12hr = new Date('1970-01-01T' + timeString + 'Z')
@@ -158,9 +158,12 @@ var table = new Tabulator("#table-bordered", {
 
 });
 
+
+
 // AJAX (WEB TRIGGER ACTION)
 document.getElementById("ajax-trigger").addEventListener("click", function(){
     table.setData();
+    //table.setData("https://n6dfpq.apps.connect.claris.com/api/webhook/v1/dublist/catch", {}, ajaxConfig ); //make a post request
 });
 
 //trigger AJAX load on "Load Data via AJAX" button click
